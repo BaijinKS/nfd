@@ -1,7 +1,3 @@
-Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
-
-使用方法：
-
-- 当其他用户给bot发消息，会被转发到bot创建者
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
-- 用户回复 `/block` ,  `/unblock` ,  `/checkblock` 等命令会执行相关指令， **不会** 回复到原消息发送者
+百金卡官网： https://BaijinKS.com
+【24小时自助购卡商城】
+如有疑问请给我发送消息，我会及时回复！
