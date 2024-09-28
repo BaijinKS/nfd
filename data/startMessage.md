@@ -1,4 +1,4 @@
-百金卡商官网：
-https://BaijinKS.com
+白金卡商官网：
+https://www.baijinks.com
 【24小时自助购卡商城】
 如有疑问请直接给我发送消息，我会及时回复！
